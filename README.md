@@ -12,9 +12,11 @@ Source: Unger, M., Tuzhilin, A. and Livne, A., 2020. Context-Aware Recommendatio
 3.A Recommendation Model Based on Deep Neural Network by Libo Zhang, Tiejian Luo, Fei Zhang and Yanjun Wu
 Source: Zhang, L., Luo, T., Zhang, F. and Wu, Y., 2018. A recommendation model based on deep neural network. IEEE Access, 6, pp.9454-9463.
 -----------------------------------------
-4:DDTCDR: Deep Dual Transfer Cross Domain Recommendation by Pan Li and ALEXANDER TUZHILIN
+4.DDTCDR: Deep Dual Transfer Cross Domain Recommendation by Pan Li and ALEXANDER TUZHILIN
 Source: Li, P. and Tuzhilin, A., 2020, January. DDTCDR: Deep dual transfer cross domain recommendation. In Proceedings of the 13th International Conference on Web Search and Data Mining (pp. 331-339).
 -----------------------------------------
 5.A Deep Framework for Cross-Domain and Cross-System Recommendations by Feng Zhu, Yan Wang, Chaochao Chen, Guanfeng Liu, Mehmet Orgun, JiaWu
 Source: Zhu, F., Wang, Y., Chen, C., Liu, G., Orgun, M. and Wu, J., 2020. A deep framework for cross-domain and cross-system recommendations. arXiv preprint arXiv:2009.06215.
 -----------------------------------------
+6.CD-CARS: Cross-domain context-aware recommender systems by Douglas Véras, Ricardo Prudêncio, Carlos Ferraz
+Source: Véras, D., Prudêncio, R. and Ferraz, C., 2019. CD-CARS: Cross-domain context-aware recommender systems. Expert Systems with Applications, 135, pp.388-409.
