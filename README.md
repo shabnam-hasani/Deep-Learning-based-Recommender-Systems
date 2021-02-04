@@ -23,3 +23,6 @@ Source: Zhu, F., Wang, Y., Chen, C., Liu, G., Orgun, M. and Wu, J., 2020. A deep
 6.CD-CARS: Cross-domain context-aware recommender systems by Douglas Véras, Ricardo Prudêncio, Carlos Ferraz
 Source: Véras, D., Prudêncio, R. and Ferraz, C., 2019. CD-CARS: Cross-domain context-aware recommender systems. Expert Systems with Applications, 135, pp.388-409.
 -----------------------------------------
+7.A Recommendation Model Based on Deep Neural Network
+Source:Zhang, L., Luo, T., Zhang, F. and Wu, Y., 2018. A recommendation model based on deep neural network. IEEE Access, 6, pp.9454-9463.
+-----------------------------------------
