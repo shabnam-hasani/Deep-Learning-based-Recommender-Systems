@@ -1,6 +1,8 @@
 # Deep Learning based Recommender Systems
 Deep Learning based Recommender Systems Survey
 
+In the era of information explosion, Recommender Systems (RSs) play a significant role in mitigating information overload, having been broadly adopted by many online services, including E-commerce, online news, and social media Networks. Moreover, Deep neural networks have yielded tremendous success in speech recognition, computer vision, natural language processing, and RSs in recent years. Without a shadow of a doubt, the application of deep learning in RSs is flourishing. This article intends to provide a thorough literature review of recent research papers on deep learning-based RSs.
+
 Papers
 -----------------------------------------
 1.Neural Collaborative Filtering by Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu and Tat-Seng Chua
